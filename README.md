@@ -1,2 +1,3 @@
 # mvcc-empty-client-template
- Blank client-side template for building single-page web applications.
+
+A starting point for creating empty single-page applications using Svelte.
